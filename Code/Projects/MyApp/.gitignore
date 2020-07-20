@@ -1,2 +1,3 @@
 # Ignore the directory leading up to the /MyApp folder
-/Code/Projects/
+/Code
+/Projects
