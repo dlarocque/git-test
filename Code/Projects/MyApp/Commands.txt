@@ -1,1 +1,30 @@
-
+echo > README.md
+git init
+git add .
+git add <filename>
+git diff
+git status
+git status -s
+git status --short
+git commit
+git commit -m "Commit message"
+git commit --amend (after mistake commits)
+git global user.email 'email'
+git global user.name 'name'
+git global user.editor
+git remove
+git rm
+git mv
+git push <remote> <branch>
+git remote 
+git remote -v (links)
+git remote add <shortname> <url>
+git remote show <remote>
+git fetch <remote>
+git fetch
+git fetch origin
+git branch <branch name>
+git branch -d <branch to delete>
+git checkout <branch>
+git log --oneline --decorate --graph --all (see branch tree)
+git merge <branch> (to current branch)
