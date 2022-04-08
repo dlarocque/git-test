@@ -1,5 +1,5 @@
 def a(x: int) -> None:
-    print(x)
+    print(x) # new comment
 
 
 if __name__ == '__main__':
